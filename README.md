@@ -215,6 +215,7 @@ wsa://com.android.settings
 | Office | 16.0.14527.20162 | ✅ || Might require microG |
 | Office Lens | 16.0.14527.20178 | ❌ | Might require GMS, cannot sign in ||
 | Okay? | 4.08 | ✅ |||
+| OneDrive | 6.43 | ✅ |||
 | Opera Browser Beta | 65.1.3381.61349 (x86_64) | ✅ || Change app layout to Tablet Mode for a better experience |
 | Opera GX : Gaming Browser | 1.3.6 | ✅ |||
 | Opera Mini Beta | 61.0.2254.59921 | 🆖 | Requires GMS ||
@@ -294,6 +295,7 @@ wsa://com.android.settings
 | Trello | 2021.14.1.16332-production | ⚠️ | Login needs web browser installed in WSA, using Windows' default browser will not work | |
 | Twitter | 9.16.1-release.00 | ✅ | Optionally requires GMS ||
 | UC Browser | 13.0.0.1288 (x86) | ✅ || Avoid updating the app |
+| v2rayNG | 1.6.23 | ❌ | App curshes when connecting server ||
 | Vanced Manager | 2.6.2 (Crimson) | ✅ |||
 | Vanced MicroG | 0.2.22.212658 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account ||
 | Via Browser | 4.3.1 | ✅ ||
